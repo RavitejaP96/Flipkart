@@ -4,3 +4,4 @@ xpath.homebutton = {\"locator\":\"xpath=//android.widget.ImageButton[@content-de
 xpath.catagorybutton.flipkarthomepage = {\"locator\":\"xpath=//android.widget.ImageButton[@content-desc=\\\"Open Drawer\\\"]\",\"desc\":\"Catagory button flipkart homepage\"}
 id.closebutton.flipkartlaunchpage = {\"locator\":\"id=com.flipkart.android:id/btn_skip\",\"desc\":\"Close button to open home page\"}
 xpath.allowbutton.launchpage = {\"locator\":\"xpath=/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\",\"desc\":\"Allow button launch page\"}
+xpath.catagorymenu = {\"locator\":\"xpath=//android.widget.TextView[@text='%s']\",\"desc\":\"Catagory Menu\"}
