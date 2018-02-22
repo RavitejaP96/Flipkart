@@ -48,7 +48,7 @@ public class FlipkartHomePageStep extends WebDriverBaseTestPage<WebDriverTestPag
 		return xpathHomebutton;
 	}
 
-	@QAFTestStep(description = "Open my application")
+	@QAFTestStep(description = "Open my application {0}")
 	public void openApp(String value) {
 		xpathAllowbuttonLaunchpage.click();
 		idClosebuttonFlipkartlaunchpage.click();
