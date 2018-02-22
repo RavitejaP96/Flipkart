@@ -1,0 +1,6 @@
+xpath.allow.button = {\"locator\":\"xpath=android.widget.Button\",\"desc\":\"Allow button\"}
+xpath.closebutton = {\"locator\":\"xpath=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout[1]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.ImageButton\",\"desc\":\"Close button\"}
+xpath.homebutton = {\"locator\":\"xpath=//android.widget.ImageButton[@content-desc=\\\"Open Drawer\\\"]\",\"desc\":\"Home Button\"}
+xpath.catagorybutton.flipkarthomepage = {\"locator\":\"xpath=//android.widget.ImageButton[@content-desc=\\\"Open Drawer\\\"]\",\"desc\":\"Catagory button flipkart homepage\"}
+id.closebutton.flipkartlaunchpage = {\"locator\":\"id=com.flipkart.android:id/btn_skip\",\"desc\":\"Close button to open home page\"}
+xpath.allowbutton.launchpage = {\"locator\":\"xpath=/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\",\"desc\":\"Allow button launch page\"}

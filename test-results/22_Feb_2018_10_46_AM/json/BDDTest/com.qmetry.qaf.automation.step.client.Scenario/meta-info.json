@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [],
+        "lineNo": 3,
+        "name": "Flipkart",
+        "referece": "scenarios/Flip.bdd",
+        "sign": "scenarios.Flip.bdd.Flipkart()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "startTime": 1519296418781,
+      "duration": 47749,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

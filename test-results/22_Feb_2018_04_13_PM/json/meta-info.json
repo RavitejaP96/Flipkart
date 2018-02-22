@@ -1,0 +1,13 @@
+{
+  "name": "practice-flipkart.scenarios.Flip.bdd",
+  "status": "unstable",
+  "tests": [
+    "BDDTest"
+  ],
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "startTime": 1519296212848,
+  "endTime": 1519296213340
+}

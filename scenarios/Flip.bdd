@@ -1,0 +1,10 @@
+
+
+SCENARIO: Flipkart
+META-DATA: {"description":""}
+	
+	#TODO: call test steps
+	
+	Given Open my application
+	
+END

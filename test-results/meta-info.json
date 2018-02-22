@@ -1,0 +1,34 @@
+{
+  "reports": [
+    {
+      "name": "practice-flipkart.scenarios.Flip.bdd",
+      "dir": "test-results/22_Feb_2018_04_24_PM/json",
+      "startTime": 1519296852015
+    },
+    {
+      "name": "practice-flipkart.scenarios.Flip.bdd",
+      "dir": "test-results/22_Feb_2018_04_23_PM/json",
+      "startTime": 1519296809063
+    },
+    {
+      "name": "practice-flipkart.scenarios.Flip.bdd",
+      "dir": "test-results/22_Feb_2018_04_18_PM/json",
+      "startTime": 1519296486050
+    },
+    {
+      "name": "QAS Demo",
+      "dir": "test-results/22_Feb_2018_10_46_AM/json",
+      "startTime": 1519296418655
+    },
+    {
+      "name": "practice-flipkart.scenarios.Flip.bdd",
+      "dir": "test-results/22_Feb_2018_04_14_PM/json",
+      "startTime": 1519296277392
+    },
+    {
+      "name": "practice-flipkart.scenarios.Flip.bdd",
+      "dir": "test-results/22_Feb_2018_04_13_PM/json",
+      "startTime": 1519296212848
+    }
+  ]
+}
