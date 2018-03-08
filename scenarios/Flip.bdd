@@ -5,6 +5,6 @@ META-DATA: {"description":""}
 	
 	#TODO: call test steps
 	
-	Given Open my application 'Electronics'
+	Given Open my application 'My Wishlist'
 	
 END

@@ -62,6 +62,7 @@ public class FlipkartHomePageStep extends WebDriverBaseTestPage<WebDriverTestPag
 
 	public QAFWebElement getXpathCatagorybuttonFlipkarthomepage() {
 		return xpathCatagorybuttonFlipkarthomepage;
+		
 	}
 
 	public QAFWebElement getIdClosebuttonFlipkartlaunchpage() {
