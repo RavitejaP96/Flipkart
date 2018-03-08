@@ -31,6 +31,7 @@ public class FlipkartHomePageStep extends WebDriverBaseTestPage<WebDriverTestPag
 
 	@FindBy(locator = "xpath.catagorymenu")
 	private QAFWebElement xpathCatagorymenu;
+	
 
 	@Override
 	protected void openPage(PageLocator pageLocator, Object... args) {
