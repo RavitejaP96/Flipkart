@@ -55,6 +55,10 @@ public class FlipkartHomePageStep extends WebDriverBaseTestPage<WebDriverTestPag
 		idClosebuttonFlipkartlaunchpage.click();
 		xpathCatagorybuttonFlipkarthomepage.click();
 		
+		
+		
+		
+		
 		QAFExtendedWebElement element = new QAFExtendedWebElement(String.format(ConfigurationManager.getBundle().getString("xpathCatagorymenu"), value));
 		element.click();
 	}
