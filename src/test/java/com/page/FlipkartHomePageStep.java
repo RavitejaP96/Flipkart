@@ -77,6 +77,10 @@ public class FlipkartHomePageStep extends WebDriverBaseTestPage<WebDriverTestPag
 	public QAFWebElement getXpathAllowbuttonLaunchpage() {
 		return xpathAllowbuttonLaunchpage;
 	}
+	
+	public void testMethod() {
+		System.out.println("Test method for git");
+	}
 
 	public QAFWebElement getXpathCatagorymenu() {
 		return xpathCatagorymenu;
